@@ -12,4 +12,4 @@ Scroll Animation project has the capabilty to slide cards in and out of the fram
 This project help with refreshing me with vanilla javascript. I was intoduced to Element.getBoundingClientRect()
 which I haven't used before. This element was used to provide information about the size and position of the content boxes relative to the view port. 
 
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+[MDN Web Docs/Element.getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
